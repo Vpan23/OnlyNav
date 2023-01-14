@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background: rgb(57, 62, 56);
+    display: flex;
+    justify-content: end;
+}
+.texto{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+nav{
+    align-items: center;
+    padding: 0.5rem;
+}
+a{
+    margin-right: 10px;
+}
+
+img{
+    border-radius: 50%;
+    margin-left: 10px;
+}
+a:hover{
+    opacity: 60%;
+}
+
+
